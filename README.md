@@ -8,7 +8,7 @@
 
 一个纯前端实现的头像生成器，并且支持导出与批量下载的功能;
 
-在线演示： [https://avatar.waveapp.cn](https://avatar.waveapp.cn)
+在线演示： [https://avatar.oooo.so](https://avatar.oooo.so)
 
 预览：
 
